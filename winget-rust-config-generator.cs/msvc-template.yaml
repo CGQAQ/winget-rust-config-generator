@@ -1,0 +1,18 @@
+Id: Rustlang.rust-msvc
+Version: <VERSION>
+Name: rust-msvc
+Publisher: Rustlang
+License: Apache 2.0 and MIT
+LicenseUrl: https://raw.githubusercontent.com/rust-lang/rust/master/COPYRIGHT
+AppMoniker: rust-msvc
+Tags: rust, windows, msvc
+Description: this is the rust-lang built with msvc
+Homepage: https://www.rust-lang.org/
+Installers:
+  - Arch: <ARCH>
+    Url: <URL>
+    Sha256: <HASH>
+    InstallerType: msi
+    Switches:
+      Silent: "/quiet"
+      SilentWithProgress: "/quiet /passive"

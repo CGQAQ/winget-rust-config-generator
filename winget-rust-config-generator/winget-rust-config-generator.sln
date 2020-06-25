@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "winget-rust-config-generator", "winget-rust-config-generator\winget-rust-config-generator.fsproj", "{093134B5-20C6-448A-920F-11B4B688CC25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winget-rust-config-generator.cs", "winget-rust-config-generator.cs\winget-rust-config-generator.cs.csproj", "{B278D1FE-DE83-4F33-8C29-E544A6608060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093134B5-20C6-448A-920F-11B4B688CC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093134B5-20C6-448A-920F-11B4B688CC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093134B5-20C6-448A-920F-11B4B688CC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093134B5-20C6-448A-920F-11B4B688CC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B278D1FE-DE83-4F33-8C29-E544A6608060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B278D1FE-DE83-4F33-8C29-E544A6608060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B278D1FE-DE83-4F33-8C29-E544A6608060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B278D1FE-DE83-4F33-8C29-E544A6608060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
